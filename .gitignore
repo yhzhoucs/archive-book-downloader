@@ -1,0 +1,8 @@
+# output directory
+output/
+# virtual environment
+venv/
+
+# cahced file
+fail.log
+cache
