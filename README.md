@@ -1,6 +1,8 @@
 # archive-book-downloader
 A simple script to download borrowed books in Internet Archive
 
+[中文说明书](%E8%AF%B4%E6%98%8E%E4%B9%A6.md)
+
 Click here to access [Internet Archive](https://archive.org/)
 
 # Dependency
